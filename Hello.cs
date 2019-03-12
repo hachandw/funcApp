@@ -5,7 +5,7 @@ namespace HelloWorld
     {
         static void Main() 
         {
-            Console.WriteLine("Hello harsha!");
+            Console.WriteLine("Hello harsha msft!");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
